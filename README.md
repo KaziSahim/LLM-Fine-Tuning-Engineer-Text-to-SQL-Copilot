@@ -1,4 +1,3 @@
-# LLM-Fine-Tuning-Engineer-Text-to-SQL-Copilot
 # 📊 Text-to-SQL Fine-Tuning with Qwen 2.5 7B
 
 A high-performance implementation for fine-tuning **Qwen2.5-7B-Instruct** on natural language to SQL translation. Optimized for memory-constrained environments using **QLoRA** and **Unsloth**, enabling efficient training on standard T4 GPU instances.
